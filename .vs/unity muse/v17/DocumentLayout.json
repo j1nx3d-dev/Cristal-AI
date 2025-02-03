@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\P\\UnityProjects\\unity muse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|c:\\p\\unityprojects\\unity muse\\assets\\custompackages\\lmstudio\\scripts\\helpers\\onbtnsendtolamahlpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|solutionrelative:assets\\custompackages\\lmstudio\\scripts\\helpers\\onbtnsendtolamahlpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|C:\\P\\UnityProjects\\unity muse\\assets\\custompackages\\lmstudio\\scripts\\conversationlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|solutionrelative:assets\\custompackages\\lmstudio\\scripts\\conversationlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|C:\\P\\UnityProjects\\unity muse\\assets\\custompackages\\lmstudio\\scripts\\unitytolama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|solutionrelative:assets\\custompackages\\lmstudio\\scripts\\unitytolama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|C:\\P\\UnityProjects\\unity muse\\assets\\custompackages\\lmstudio\\scripts\\responseuiupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|solutionrelative:assets\\custompackages\\lmstudio\\scripts\\responseuiupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{75d09b86-471e-4b30-8720-362d13ad0a45}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseUIUpdater.cs",
+              "DocumentMoniker": "C:\\P\\UnityProjects\\unity muse\\Assets\\CustomPackages\\LMStudio\\Scripts\\ResponseUIUpdater.cs",
+              "RelativeDocumentMoniker": "Assets\\CustomPackages\\LMStudio\\Scripts\\ResponseUIUpdater.cs",
+              "ToolTip": "C:\\P\\UnityProjects\\unity muse\\Assets\\CustomPackages\\LMStudio\\Scripts\\ResponseUIUpdater.cs",
+              "RelativeToolTip": "Assets\\CustomPackages\\LMStudio\\Scripts\\ResponseUIUpdater.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T05:45:50.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnBtnSendToLamaHlpr.cs",
+              "DocumentMoniker": "C:\\P\\UnityProjects\\unity muse\\Assets\\CustomPackages\\LMStudio\\Scripts\\Helpers\\OnBtnSendToLamaHlpr.cs",
+              "RelativeDocumentMoniker": "Assets\\CustomPackages\\LMStudio\\Scripts\\Helpers\\OnBtnSendToLamaHlpr.cs",
+              "ToolTip": "C:\\P\\UnityProjects\\unity muse\\Assets\\CustomPackages\\LMStudio\\Scripts\\Helpers\\OnBtnSendToLamaHlpr.cs",
+              "RelativeToolTip": "Assets\\CustomPackages\\LMStudio\\Scripts\\Helpers\\OnBtnSendToLamaHlpr.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T05:14:22.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConversationLogger.cs",
+              "DocumentMoniker": "C:\\P\\UnityProjects\\unity muse\\Assets\\CustomPackages\\LMStudio\\Scripts\\ConversationLogger.cs",
+              "RelativeDocumentMoniker": "Assets\\CustomPackages\\LMStudio\\Scripts\\ConversationLogger.cs",
+              "ToolTip": "C:\\P\\UnityProjects\\unity muse\\Assets\\CustomPackages\\LMStudio\\Scripts\\ConversationLogger.cs",
+              "RelativeToolTip": "Assets\\CustomPackages\\LMStudio\\Scripts\\ConversationLogger.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T05:10:25.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnityToLama.cs",
+              "DocumentMoniker": "C:\\P\\UnityProjects\\unity muse\\Assets\\CustomPackages\\LMStudio\\Scripts\\UnityToLama.cs",
+              "RelativeDocumentMoniker": "Assets\\CustomPackages\\LMStudio\\Scripts\\UnityToLama.cs",
+              "ToolTip": "C:\\P\\UnityProjects\\unity muse\\Assets\\CustomPackages\\LMStudio\\Scripts\\UnityToLama.cs",
+              "RelativeToolTip": "Assets\\CustomPackages\\LMStudio\\Scripts\\UnityToLama.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAADgv3QAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T05:03:04.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

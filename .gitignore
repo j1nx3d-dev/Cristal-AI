@@ -1,0 +1,25 @@
+# .gitignore for Unity
+
+# User-specific files
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.svd
+*.tmp
+*.bak
+*.swp
+
+# Unity specific
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
