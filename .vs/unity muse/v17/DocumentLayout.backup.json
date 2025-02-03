@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|solutionrelative:assets\\custompackages\\lmstudio\\scripts\\helpers\\onbtnsendtolamahlpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|c:\\p\\unityprojects\\unity muse\\assets\\custompackages\\lmstudio\\scripts\\conversationlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|C:\\P\\UnityProjects\\unity muse\\assets\\custompackages\\lmstudio\\scripts\\conversationlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|solutionrelative:assets\\custompackages\\lmstudio\\scripts\\conversationlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|c:\\p\\unityprojects\\unity muse\\assets\\custompackages\\lmstudio\\scripts\\unitytolama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|C:\\P\\UnityProjects\\unity muse\\assets\\custompackages\\lmstudio\\scripts\\unitytolama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|solutionrelative:assets\\custompackages\\lmstudio\\scripts\\unitytolama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|c:\\p\\unityprojects\\unity muse\\assets\\custompackages\\lmstudio\\scripts\\responseuiupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|C:\\P\\UnityProjects\\unity muse\\assets\\custompackages\\lmstudio\\scripts\\responseuiupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|solutionrelative:assets\\custompackages\\lmstudio\\scripts\\responseuiupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,8 +42,7 @@
               "RelativeToolTip": "Assets\\CustomPackages\\LMStudio\\Scripts\\ResponseUIUpdater.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAswBkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T05:45:50.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T05:45:50.685Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "Assets\\CustomPackages\\LMStudio\\Scripts\\Helpers\\OnBtnSendToLamaHlpr.cs",
               "ToolTip": "C:\\P\\UnityProjects\\unity muse\\Assets\\CustomPackages\\LMStudio\\Scripts\\Helpers\\OnBtnSendToLamaHlpr.cs",
               "RelativeToolTip": "Assets\\CustomPackages\\LMStudio\\Scripts\\Helpers\\OnBtnSendToLamaHlpr.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T05:14:22.466Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Assets\\CustomPackages\\LMStudio\\Scripts\\ConversationLogger.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAqwBUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T05:10:25.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T05:10:25.004Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Assets\\CustomPackages\\LMStudio\\Scripts\\UnityToLama.cs",
               "ViewState": "AgIAAGsAAAAAAAAAAADgv3QAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T05:03:04.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T05:03:04.07Z"
             }
           ]
         }

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\P\\UnityProjects\\unity muse\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|c:\\p\\unityprojects\\unity muse\\assets\\custompackages\\twitch\\scripts\\twitchchatlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|solutionrelative:assets\\custompackages\\twitch\\scripts\\twitchchatlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|c:\\p\\unityprojects\\unity muse\\assets\\custompackages\\lmstudio\\scripts\\helpers\\onbtnsendtolamahlpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B800BC26-C112-D73F-0EE5-857847146F14}|Assembly-CSharp.csproj|solutionrelative:assets\\custompackages\\lmstudio\\scripts\\helpers\\onbtnsendtolamahlpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +38,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "TwitchChatListener.cs",
+              "DocumentMoniker": "C:\\P\\UnityProjects\\unity muse\\Assets\\CustomPackages\\Twitch\\Scripts\\TwitchChatListener.cs",
+              "RelativeDocumentMoniker": "Assets\\CustomPackages\\Twitch\\Scripts\\TwitchChatListener.cs",
+              "ToolTip": "C:\\P\\UnityProjects\\unity muse\\Assets\\CustomPackages\\Twitch\\Scripts\\TwitchChatListener.cs",
+              "RelativeToolTip": "Assets\\CustomPackages\\Twitch\\Scripts\\TwitchChatListener.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:06:05.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ResponseUIUpdater.cs",
               "DocumentMoniker": "C:\\P\\UnityProjects\\unity muse\\Assets\\CustomPackages\\LMStudio\\Scripts\\ResponseUIUpdater.cs",
               "RelativeDocumentMoniker": "Assets\\CustomPackages\\LMStudio\\Scripts\\ResponseUIUpdater.cs",
@@ -46,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OnBtnSendToLamaHlpr.cs",
               "DocumentMoniker": "C:\\P\\UnityProjects\\unity muse\\Assets\\CustomPackages\\LMStudio\\Scripts\\Helpers\\OnBtnSendToLamaHlpr.cs",
               "RelativeDocumentMoniker": "Assets\\CustomPackages\\LMStudio\\Scripts\\Helpers\\OnBtnSendToLamaHlpr.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ConversationLogger.cs",
               "DocumentMoniker": "C:\\P\\UnityProjects\\unity muse\\Assets\\CustomPackages\\LMStudio\\Scripts\\ConversationLogger.cs",
               "RelativeDocumentMoniker": "Assets\\CustomPackages\\LMStudio\\Scripts\\ConversationLogger.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UnityToLama.cs",
               "DocumentMoniker": "C:\\P\\UnityProjects\\unity muse\\Assets\\CustomPackages\\LMStudio\\Scripts\\UnityToLama.cs",
               "RelativeDocumentMoniker": "Assets\\CustomPackages\\LMStudio\\Scripts\\UnityToLama.cs",
