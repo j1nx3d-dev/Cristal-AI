@@ -10,7 +10,10 @@ namespace MyPckg_IskXR.Nmap
     {
         #region Serialized Fields
 
-        [MenuItem("IsekaiXRTools/Nmap Tool")] // Creates a menu item in the Unity toolbar
+        [MenuItem("IsekaiXRTools/Nmap Tool")]
+        /// <summary>
+        /// Creates a menu item in the Unity toolbar to show the Nmap Tool window.
+        /// </summary>
         public static void ShowWindow()
         {
             GetWindow<IsekaiXRToolsMenu>("Nmap Tool");
@@ -59,6 +62,9 @@ namespace MyPckg_IskXR.Nmap
 
             // Display result with color
             EditorGUILayout.TextArea(scanResult, resultStyle, GUILayout.Height(300));
+
+            // Path to Nmap executable input field
+            NmapExecutor.NmapPath = EditorGUILayout.TextField("Nmap Path:", NmapExecutor.NmapPath);
         }
 
         #endregion GUI Methods
@@ -76,7 +82,7 @@ namespace MyPckg_IskXR.Nmap
             {
                 scanResult = result; // Store scan result
 
-                // Vérifie si le port est ouvert dans le résultat
+                // Check if the port is open in the result
                 isPortOpen = result.Contains("open");
 
                 Repaint(); // Refresh the UI to display the result

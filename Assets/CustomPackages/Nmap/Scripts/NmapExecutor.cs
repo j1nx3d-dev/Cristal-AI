@@ -9,6 +9,15 @@ namespace MyPckg_IskXR.Nmap
     /// </summary>
     public class NmapExecutor : MonoBehaviour
     {
+        #region Public Fields
+
+        /// <summary>
+        /// Path to the Nmap executable.
+        /// </summary>
+        public static string NmapPath = @"C:\Program Files (x86)\Nmap\nmap.exe"; // Default path to nmap.exe
+
+        #endregion Public Fields
+
         #region Public Methods
 
         /// <summary>
@@ -45,11 +54,11 @@ namespace MyPckg_IskXR.Nmap
         {
             return new ProcessStartInfo
             {
-                FileName = "nmap", // Ensure 'nmap' is in the PATH
+                FileName = NmapPath, // Uses the public static NmapPath variable
                 Arguments = $"-sT {ip} -p {port}", // Nmap scan command
-                RedirectStandardOutput = true, // Redirect output to capture it
-                UseShellExecute = false, // Prevent using shell
-                CreateNoWindow = true // Hide the process window
+                RedirectStandardOutput = true, // Redirects the output to capture it
+                UseShellExecute = false, // Prevents using the shell
+                CreateNoWindow = true // Hides the process window
             };
         }
 
