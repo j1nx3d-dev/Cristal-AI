@@ -72,9 +72,9 @@
     <Compile Include="Assets\CustomPackages\LMStudio\Scripts\ConversationLogger.cs" />
     <Compile Include="Assets\CustomPackages\LMStudio\Scripts\Helpers\BarreDeDefilement.cs" />
     <Compile Include="Assets\MuseSO.cs" />
+    <Compile Include="Assets\CustomPackages\Nmap\Scripts\IsekaiXRToolsMenu.cs" />
     <Compile Include="Assets\CustomPackages\LMStudio\Scripts\SendMsgBtnHelper.cs" />
     <Compile Include="Assets\CustomPackages\Nmap\Scripts\NmapExecutor.cs" />
-    <Compile Include="Assets\CustomPackages\Nmap\Scripts\NmapEditorWindow.cs" />
     <Compile Include="Assets\CustomPackages\Twitch\Scripts\TwitchChatListener.cs" />
   </ItemGroup>
   <ItemGroup>
