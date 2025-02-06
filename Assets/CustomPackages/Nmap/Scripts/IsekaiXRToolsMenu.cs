@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-namespace MyPckg_IskXR.Nmap
+namespace J1nx3d_IskXR.Nmap
 {
     /// <summary>
     /// Editor window that allows users to interact with the Nmap tool from Unity's interface.

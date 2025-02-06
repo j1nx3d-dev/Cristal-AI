@@ -2,7 +2,7 @@ using System;
 using System.Diagnostics;
 using UnityEngine;
 
-namespace MyPckg_IskXR.Nmap
+namespace J1nx3d_IskXR.Nmap
 {
     /// <summary>
     /// Class responsible for executing Nmap scans and returning the results.
