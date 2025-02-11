@@ -69,6 +69,7 @@
     <Compile Include="Assets\CustomPackages\LMStudio\Scripts\UnityToLM.cs" />
     <Compile Include="Assets\CustomPackages\LMStudio\Scripts\ResponseUIUpdater.cs" />
     <Compile Include="Assets\CustomPackages\CoreBaseFolder\Scripts\ProjectStructureCreator.cs" />
+    <Compile Include="Assets\CustomPackages\LMStudio\Scripts\UnityToLMStudioServer.cs" />
     <Compile Include="Assets\CustomPackages\LMStudio\Scripts\ConversationLogger.cs" />
     <Compile Include="Assets\CustomPackages\LMStudio\Scripts\Helpers\BarreDeDefilement.cs" />
     <Compile Include="Assets\MuseSO.cs" />

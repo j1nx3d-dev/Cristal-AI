@@ -685,6 +685,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4c110f739bc749b4aafe24e3c6b87c84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  logFilePath: C:\p\Logs\conversation_log.txt
   unityToLama: {fileID: 1910094675}
   userInputField: {fileID: 1236698162}
   sendButton: {fileID: 1737476751}
